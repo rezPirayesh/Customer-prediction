@@ -25,7 +25,7 @@ Customer Behavior Prediction
    - Future work: Explore class weights, feature engineering, or visualizations (e.g., feature importance).
 
    ## Author
-   Mohammadreza PirayeshNezhad, AI & Data Science Enthusiast
+   Mohamadreza Pirayesh, AI & Data Science Enthusiast
    - GitHub: [rezPirayesh](https://github.com/rezPirayesh)
    - Email: rez4dev@gmail.com
             
